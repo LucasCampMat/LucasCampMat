@@ -1,23 +1,40 @@
-# Olá, eu sou o Lucas Campos, desenvolvedor Java Backend & futuro engenheiro Full Stack!
+# 👩🏻‍💻 Lucas Campos
 
-🚀 Cursando Ciências da Computação (Fase final) | 27 anos | Espanhol Intermediário | Inglês A2
-☕ Conhecimentos em POO, Hibernate, Spring Security, Microsserviços, Endpoints, JSON, Docker, Testes Unitários e Banco de Dados Relacional.
-📐 Próximo objetivo: Dominar o ecossistema Angular.
+**`Desenvolvedor back-end`**
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Java" height="30" width="40" src="githubusercontent.com">
-  <img align="center" alt="Lucas-Spring" height="30" width="40" src="githubusercontent.com">
-  <img align="center" alt="Lucas-Docker" height="30" width="40" src="githubusercontent.com">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Git" height="30" width="40" src="githubusercontent.com">
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://github.com/[SEU_USUARIO_DO_GITHUB].png">
-</div>
+Me chamo Lucas Campos, tenho 27 anos e sou natural de São Paulo. Atualmente, estou formando na Universidade Cruzeiro do Sul. Sou apaixonado por tecnologia e desafios, onde venho desenvolvendo projetos web.
 
-##
+<p align="left">
+    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscritos&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@larissakich">
+@@ -155,22 +155,22 @@
+<br/>
+<br/>
 
-<div> 
-  <a href="linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="wa.me" target="_blank"><img src="shields.io" target="_blank"></a>
-  <a href="mailto:lucascamposnew@outlook.com"><img src="shields.io" target="_blank"></a>
-</div>
+### 🤖 Estatísticas
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=LucasCampMath&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCampMat&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
