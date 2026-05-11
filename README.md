@@ -1,34 +1,33 @@
-# 👩🏻‍💻 Lucas Campos
+# 👨‍💻 Lucas Campos
 
-**`Desenvolvedor back-end`**
+**`Desenvolvedor back-end`** 
 
-Me chamo Lucas Campos, tenho 27 anos e sou natural de São Paulo. Atualmente, estou formando na Universidade Cruzeiro do Sul. Sou apaixonado por tecnologia e desafios, onde venho desenvolvendo projetos web.
+## OláMe chamo Lucas Campos, tenho 27 anos e sou natural de São Paulo. Atualmente, estou formando na Universidade Cruzeiro do Sul. Sou apaixonado por tecnologia e desafios, onde venho desenvolvendo projetos web.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscritos&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-@@ -155,22 +155,22 @@
-<br/>
-<br/>
+<div>
+  <img src="shields.io" alt="YouTube Subscribers">
+  <img src="shields.io" alt="YouTube Views">
+  <img src="shields.io" alt="GitHub Stars">
+  <img src="shields.io" alt="GitHub Followers">
+</div>
 
-### 🤖 Estatísticas
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasCampMath&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## 🚀 Linguagens e Tecnologias
+
+<div style="display: inline-block">
+  <img src="shields.io" alt="MySQL">
+  <img src="shields.io" alt="Git">
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="vercel.app" alt="Estatísticas do GitHub">
+  <img height="180em" src="vercel.app" alt="Tecnologias mais usadas">
+</div>
 
 <img 
       align="left" 
