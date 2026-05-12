@@ -13,18 +13,26 @@ jobs:
       - name: Checkout Código
         uses: actions/checkout@v4
 
-      - name: Gerar Card de Estatisticas
+      - name: Gerar Card de Estatisticas Geral
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&include_all_commits=true
-          path: stats.svg # Salva o arquivo na raiz
+          path: stats.svg
+          token: ${{ secrets.PAT_1 }}
+
+      - name: Gerar Card das Linguagens Mais Usadas
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dracula
+          path: languages.svg
           token: ${{ secrets.PAT_1 }}
 
       - name: Commit e Push das Estatísticas
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@github.com"
-          git add stats.svg
-          git commit -m "docs: atualiza estatísticas do perfil [skip ci]" || echo "Sem alterações para salvar"
+          git add stats.svg languages.svg
+          git commit -m "docs: atualiza estatísticas e linguagens do perfil [skip ci]" || echo "Sem alterações para salvar"
           git push
