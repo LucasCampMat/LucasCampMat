@@ -24,7 +24,7 @@ jobs:
       - name: Gerar Card das Linguagens Mais Usadas
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: langs
+          card: top-languages
           options: username=${{ github.repository_owner }}&layout=compact&theme=dracula
           path: languages.svg
           token: ${{ secrets.PAT_1 }}
