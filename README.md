@@ -5,9 +5,9 @@
 Me chamo Lucas Campos Mateus, tenho 27 anos e sou natural de São Paulo. Atualmente, sou formando em Ciências da Computação. Sou apaixonado por desafios e tecnologia. caso queira me conhecer um pouco mais, entre em contato comigo pelo meu linkedin "[Linkedin](https://www.linkedin.com/in/lucas-campos-mateus-new/)", ou se preferir, mande-me um "[Email](mailto:lucascamposnew@outlook.com)"
 
 <p align="left">
-<a href="https://www.instagram.com/lucascamposmateus?utm_source=qr&igsh=czF6N3BuNDdxeWo0" target="_blank"><img src="shields.io" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/lucas-campos-mateus-new/" target="_blank"><img src="shields.io" alt="LinkedIn"></a>
-<a href="mailto:lucascamposnew@outlook.com" target="_blank"><img src="shields.io" alt="Email"></a>
+  <a href="instagram.com" target="_blank"><img src="shields.io" alt="Instagram"></a>
+  <a href="linkedin.com" target="_blank"><img src="shields.io" alt="LinkedIn"></a>
+  <a href="mailto:lucascamposnew@outlook.com" target="_blank"><img src="shields.io" alt="Email"></a>
 </p>
 
 ---
