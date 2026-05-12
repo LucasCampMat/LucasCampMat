@@ -6,17 +6,17 @@
 - 📫 Como entrar em contato comigo: lucascamposnew@outlook.com
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/lucas-campos-mateus-new/" target="_blank">
-        <img alt="Linkedin" title="Meu LinkedIn" src="shields.io"/>
+    <a href="linkedin.com" target="_blank">
+        <img alt="LinkedIn" title="Meu LinkedIn" src="shields.io"/>
     </a>
     <a href="mailto:lucascamposnew@outlook.com">
-        <img alt="Outlook" title="E-mail profissional" src="shields.io"/>
+        <img alt="Outlook" title="Meu E-mail" src="shields.io"/>
     </a>
-    <a href="https://github.com/LucasCampMat?tab=repositories">
-        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LucasCampMat?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+    <a href="github.com">
+        <img alt="Estrelas" title="Total de estrelas" src="shields.io"/>
     </a>
-    <a href="https://github.com/LucasCampMat">
-        <img alt="Seguidores" title="Me siga no GitHub" src="demolab.com"/>
+    <a href="github.com">
+        <img alt="Seguidores" title="Me siga no GitHub" src="shields.io"/>
     </a>
 </p>
 
