@@ -14,7 +14,7 @@ Olá! Me chamo Lucas Campos Mateus, tenho 27 anos e sou natural de São Paulo. A
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,springboot,mysql,intellij)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,spring,mysql,idea)](https://skillicons.dev)
 
 <br/>
 <br/>
