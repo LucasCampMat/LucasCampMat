@@ -34,11 +34,9 @@
 
 <br>
 
-<!-- COBRINHA COMENDO COMMITS COM URL RAW CORRIGIDA -->
+<!-- COBRINHA COMENDO COMMITS REAL-TIME -->
 <div align="center">
-  <picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="githubusercontent.com"> 
-    <source media="(prefers-color-scheme: light)" srcset="githubusercontent.com"> 
-    <img alt="github contribution grid snake animation" src="githubusercontent.com"> 
-  </picture>
+  <img src="vercel.app" alt="Gráfico de Atividades" />
+  <br><br>
+  <img src="githubusercontent.com" alt="GitHub_Snake" />
 </div>
