@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Lucas Campos👋 
+### Olá!! Eu sou o Lucas Campos 👋 
 
 - 🔭 Atualmente estou focado em Back-End Java mas logo estarei estudando Angular para me tornar um ótimo profissional.
 - 🌱 Estou extremamente focado em Spring Boot.
@@ -6,17 +6,14 @@
 - 📫 Como entrar em contato comigo: lucascamposnew@outlook.com
 
 <p align="left">
-    <a href="linkedin.com" target="_blank">
+    <a href="https://www.linkedin.com/in/lucas-campos-mateus-new/" target="_blank">
         <img alt="LinkedIn" title="Meu LinkedIn" src="shields.io"/>
     </a>
+    <a href="https://www.instagram.com/lucascamposmateus?utm_source=qr&igsh=czF6N3BuNDdxeWo0" target="_blank">
+        <img alt="Instagram" title="Meu Instagram" src="shields.io"/>
+    </a>
     <a href="mailto:lucascamposnew@outlook.com">
-        <img alt="Outlook" title="Meu E-mail" src="shields.io"/>
-    </a>
-    <a href="github.com">
-        <img alt="Estrelas" title="Total de estrelas" src="shields.io"/>
-    </a>
-    <a href="github.com">
-        <img alt="Seguidores" title="Me siga no GitHub" src="shields.io"/>
+        <img alt="Outlook" title="Enviar E-mail" src="shields.io"/>
     </a>
 </p>
 
@@ -24,138 +21,26 @@
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<p align="left">
+<img align="center" alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="jsdelivr.net" />
+<img align="center" alt="Spring" title="Spring Boot" width="40px" style="padding-right: 10px;" src="jsdelivr.net" />
+<img align="center" alt="Angular" title="Angular" width="40px" style="padding-right: 10px;" src="jsdelivr.net" />
+<img align="center" alt="TypeScript" title="TypeScript" width="40px" style="padding-right: 10px;" src="jsdelivr.net" />
+<img align="center" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="jsdelivr.net" />
+<img align="center" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="jsdelivr.net" />
+<img align="center" alt="HTML" title="HTML5" width="40px" style="padding-right: 10px;" src="jsdelivr.net" />
+<img align="center" alt="CSS" title="CSS3" width="40px" style="padding-right: 10px;" src="jsdelivr.net" />
+<img align="center" alt="React" title="React" width="40px" style="padding-right: 10px;" src="jsdelivr.net" />
+<img align="center" alt="Next.js" title="Next.js" width="40px" style="padding-right: 10px;" src="jsdelivr.net" />
+<img align="center" alt="Tailwind" title="Tailwind CSS" width="40px" style="padding-right: 10px;" src="jsdelivr.net" />
+<img align="center" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="jsdelivr.net" />
+</p>
 
-<br/>
 <br/>
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="left">
+  <img height="180" src="vercel.app" alt="GitHub Stats Lucas" />
+  <img height="180" src="vercel.app" alt="Linguagens mais usadas Lucas" />
 </p>
