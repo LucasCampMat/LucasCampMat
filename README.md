@@ -20,7 +20,8 @@ Olá! Me chamo Lucas Campos Mateus, tenho 27 anos e sou natural de São Paulo. A
 <br/>
 
 ### 📊 Estatísticas
-
-<p>
-  <img align="left" alt="Github Stats" height="200" style="padding-right: 10px;" src="stats.svg" />
+<p align="left">
+  <img alt="Github Stats" height="200" style="padding-right: 10px;" src="stats.svg" align="left" />
+  <img alt="Top Langs" height="200" src="languages.svg" align="left" />
 </p>
+<br clear="both"/>
