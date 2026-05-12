@@ -7,7 +7,7 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/lucas-campos-mateus-new/" target="_blank">
-        <img alt="LinkedIn" title="Meu LinkedIn" src="shields.io"/>
+        <img align="center" alt="LinkedIn" title="Meu LinkedIn" width="40px" style="padding-right: 10px;" src="jsdelivr.net"/>
     </a>
     <a href="https://www.instagram.com/lucascamposmateus?utm_source=qr&igsh=czF6N3BuNDdxeWo0" target="_blank">
         <img alt="Instagram" title="Meu Instagram" src="shields.io"/>
