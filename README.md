@@ -25,7 +25,7 @@
 
 <br>
 
-<!-- REDES SOCIAIS CORRIGIDAS -->
+<!-- REDES SOCIAIS -->
 <div align="center"> 
   <a href="linkedin.com" target="_blank"><img src="shields.io"></a> 
   <a href="mailto:lucascamposnew@outlook.com"><img src="shields.io"></a> 
@@ -34,11 +34,11 @@
 
 <br>
 
-<!-- COBRINHA COMENDO COMMITS -->
+<!-- COBRINHA COMENDO COMMITS COM LINKS CORRIGIDOS -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="githubusercontent.com">
-    <img alt="github contribution grid snake animation" src="githubusercontent.com">
+  <picture> 
+    <source media="(prefers-color-scheme: dark)" srcset="githubusercontent.com"> 
+    <source media="(prefers-color-scheme: light)" srcset="githubusercontent.com"> 
+    <img alt="github contribution grid snake animation" src="githubusercontent.com"> 
   </picture>
 </div>
