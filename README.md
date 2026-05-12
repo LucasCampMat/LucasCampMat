@@ -22,7 +22,11 @@ Olá! Me chamo Lucas Campos Mateus, tenho 27 anos e sou natural de São Paulo. A
 ### 📊 Estatísticas
 
 <p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCampMat&show_icons=true&theme=dracula)
-
+<img
+  align="left"
+  alt="Github Stats"
+  heigth="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api?username=LucasCampMat&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
+/>
 </p>
