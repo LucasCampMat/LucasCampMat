@@ -8,7 +8,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Dá permissão para gravar o arquivo no seu repositório
+      contents: write
     steps:
       - name: Checkout Código
         uses: actions/checkout@v4
@@ -18,5 +18,13 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&include_all_commits=true
-          path: profile/stats.svg # Onde a imagem será salva
+          path: stats.svg # Salva o arquivo na raiz
           token: ${{ secrets.PAT_1 }}
+
+      - name: Commit e Push das Estatísticas
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@github.com"
+          git add stats.svg
+          git commit -m "docs: atualiza estatísticas do perfil [skip ci]" || echo "Sem alterações para salvar"
+          git push
