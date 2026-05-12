@@ -6,10 +6,9 @@ Me chamo Lucas Campos Mateus, tenho 27 anos e sou natural de São Paulo. Atualme
 
 <p align="left">
   <a href="https://www.instagram.com/lucascamposmateus?utm_source=qr&igsh=czF6N3BuNDdxeWo0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/lucas-campos-mateus-new/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white
-" alt="LinkedIn"></a>
-  <a href="mailto:lucascamposnew@outlook.com" target="_blank"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logoColor=white
-" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/lucas-campos-mateus-new/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white"
+ alt="LinkedIn"></a>
+  <a href="mailto:lucascamposnew@outlook.com" target="_blank"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logoColor=white?" alt="Email"></a>
 </p>
 
 ---
