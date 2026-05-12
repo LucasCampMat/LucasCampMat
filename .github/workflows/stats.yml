@@ -1,14 +1,22 @@
 name: GitHub Readme Stats
 on:
   schedule:
-    - cron: '0 */3 * * *'
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Atualiza uma vez por dia
+  workflow_dispatch: # Permite rodar manualmente
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Dá permissão para gravar o arquivo no seu repositório
     steps:
-      - name: Deploy GitHub Readme Stats
-        uses: anuraghazra/github-readme-stats@master
+      - name: Checkout Código
+        uses: actions/checkout@v4
+
+      - name: Gerar Card de Estatisticas
+        uses: readme-tools/github-readme-stats-action@v1
         with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&include_all_commits=true
+          path: profile/stats.svg # Onde a imagem será salva
           token: ${{ secrets.PAT_1 }}
