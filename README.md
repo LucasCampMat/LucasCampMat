@@ -6,33 +6,17 @@
 - 📫 Como entrar em contato comigo: lucascamposnew@outlook.com
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/lucas-campos-mateus-new/">
-        <img 
-            alt="Linkedin" 
-            title="Meu Linkedin" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
+    <a href="https://www.linkedin.com/in/lucas-campos-mateus-new/" target="_blank">
+        <img alt="Linkedin" title="Meu LinkedIn" src="shields.io"/>
     </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/LucasCampMat?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LucasCampMat?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+    <a href="mailto:lucascamposnew@outlook.com">
+        <img alt="Outlook" title="E-mail profissional" src="shields.io"/>
     </a>
-    <a href="lucascamposnew@outlook.com">
-        <img 
-            alt="Outlook" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+    <a href="https://github.com/LucasCampMat?tab=repositories">
+        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LucasCampMat?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+    </a>
+    <a href="https://github.com/LucasCampMat">
+        <img alt="Seguidores" title="Me siga no GitHub" src="demolab.com"/>
     </a>
 </p>
 
