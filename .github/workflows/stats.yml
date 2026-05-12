@@ -1,0 +1,14 @@
+name: GitHub Readme Stats
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy GitHub Readme Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          token: ${{ secrets.PAT_1 }}
